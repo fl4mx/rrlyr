@@ -248,7 +248,7 @@ def rrlyr_PL(BLG_metadata, LMC_metadata, SMC_metadata):
     SMC_RRc = SMC_RRc.tolist()
     SMC_RRd = SMC_RRd.tolist()
     """
-    
+
     typescatterplot("i", "RRab", "Period", "I-Band Magnitude", "Period vs I-Band Magnitude for all RRab", 0.2)
     typescatterplot("i", "RRc", "Period", "I-Band Magnitude", "Period vs I-Band Magnitude for all RRc", 0.2)
     typescatterplot("i", "RRd", "Period", "I-Band Magnitude", "Period vs I-Band Magnitude for all RRd", 0.2)
@@ -287,6 +287,4 @@ def rrlyr_PL(BLG_metadata, LMC_metadata, SMC_metadata):
     specificscatterplot("v", SMC_RRd, "SMC", "RRd", "Period", "V-Band Magnitude", 0.1)
 
 
-    
-    
 rrlyr_PL(BLG_metadata, LMC_metadata, SMC_metadata)
