@@ -8,9 +8,9 @@
 
 
 <h2>Michael Chen 2020 - 2021</h2>
-Development from [my previous project](https://github.com/fl4mx/starplot_sinefit) Graph P-L relations from OGLE-IV, used to estimate distances to BLG, LMC, and SMC.<br><br>
+Development from my previous project, https://github.com/fl4mx/starplot_sinefit. This tool graphs P-L relations from OGLE-IV, used to estimate distances to BLG, LMC, and SMC.<br><br>
 <h3 align="center">Sample Plot</h3>
 <p align="center"><img src="https://i.imgur.com/2q7i1t4.jpg" width="600" title="P-L I mag for all RR Lyrae"></p>
 <br>
 <br>
-Rest of the plots can be found at [this imgur.](https://imgur.com/a/0zqU1au)
+Rest of the plots can be found at here: https://imgur.com/a/0zqU1au
